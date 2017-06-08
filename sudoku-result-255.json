@@ -1,0 +1,18 @@
+{
+    "tests": [
+        {
+            "description": "the naked_twins method applies the 'naked twins' heuristic.",
+            "traceback": "",
+            "message": null,
+            "advice": null,
+            "result": "."
+        },
+        {
+            "description": "the solve method produces a valid solution.",
+            "traceback": "",
+            "message": null,
+            "advice": null,
+            "result": "."
+        }
+    ]
+}
